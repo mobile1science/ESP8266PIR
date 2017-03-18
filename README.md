@@ -1,6 +1,6 @@
 # ESP8266PIR
 
-Wireless motion detector for Domoticz
+Wireless (wifi) motion detector for Domoticz
 
 My first project on github. I have a lot to discover here.
 
