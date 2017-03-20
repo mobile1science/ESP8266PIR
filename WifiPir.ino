@@ -12,13 +12,13 @@ const char* password = "idemdito";    //   to log in
 
 // Host settings
 const char* host = "teamdito.tk";     // enter ip or domain
-#define     httpPort  80            // enter appropriate port number
+#define     httpPort  80              // enter appropriate port number
 const char* connectionType = "http";  // change to 'https' when secure connection
 int httpCode;
 char url[255];
 
 // switch settings
-#define   switchIdx   160          // change to switchidx of Domoticz
+#define   switchIdx   160             // change to switchidx of Domoticz
 
 // Time to sleep (in seconds):
 const int sleepTimeS = 10;
